@@ -6,7 +6,7 @@ Welcome to my journey in Bioinformatics
 This is a collection of my work at ICIPE during my 4month bioinformatics internship. Here I will document my successes, failures,struggles, and triumps.
 
 ## Get to know me
-  My name is Asatsa Nabwire. I am a bioinformatics enthusiast. During this internship,I am looking forward to learning about genomics and bioinformatics tools and become competent in  bioinformatician.
+My name is Asatsa Nabwire. I am a bioinformatics enthusiast.I am looking forward to learning about genomics and bioinformatics tools and become competent in genomics and bioinformatics at large.
 
 linkedIn[profile](www.linkedin.com/in/nabwire-asatsa-8478031b4)
 
