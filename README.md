@@ -41,6 +41,5 @@ I hope to be proficient or atleast acquire basic skils in python, R language and
 Reach out! I am happy to recieve any help you are willing to give. I am open to learning as much as I can, not just within my interest. Follow my progress here
 [Roadmap](https://github.com/Asatsa/internship_repo1/issues/2)
 
-:tada:
 :smile:
 
