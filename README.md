@@ -1,5 +1,4 @@
-# Greetings!!!
-:smile:
+# Greetings!!!:smile:
 
 Welcome to my journey in Bioinformatics
 :tada:
