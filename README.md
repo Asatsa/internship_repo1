@@ -14,7 +14,7 @@ linkedIn[profile](www.linkedin.com/in/nabwire-asatsa-8478031b4)
 ## Description
 I am currently undertaking a Bioinformatics internship at ICIPE. Where I hope to familiarize myself with core skills such as python and r programming and workflow languages too.I will also be able to learn project management and organization and most importantly collaboration through working with collegues and trainers on a mini-project. This is to ultimately make me a competive candidate for Msc. fellowships in Bioinformatics.
 
-explain what makes your project special, useful, exciting! 
+
 
 ---
 
@@ -28,7 +28,7 @@ explain what makes your project special, useful, exciting!
 
 ## What I hope to learn
 I hope to be proficient or atleast acquire basic skils in python, R language and Linux. I want to be able to properly manage large datasets.
-[Roadmap](https://github.com/Asatsa/internship_repo1/issues/2)
+
 ## Key goals
 
 1.Be comfortable with communication this includes understanding and using GitHub
@@ -39,7 +39,7 @@ I hope to be proficient or atleast acquire basic skils in python, R language and
 
 ## Be part of my journey
 Reach out! I am happy to recieve any help you are willing to give. I am open to learning as much as I can, not just within my interest. Follow my progress here
-
+[Roadmap](https://github.com/Asatsa/internship_repo1/issues/2)
 
 :tada:
 :smile:
