@@ -28,5 +28,8 @@ It consists of one month of close training and then a mini-project where I will 
  
 4. Learn python, Linux, bash
 
+**Follow my progress** [here](https://github.com/users/Asatsa/projects/1)
+
 ### Complete a collaborative mini-project
-Follow my progress [here](
+
+
