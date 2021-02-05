@@ -8,7 +8,7 @@ This is a collection of my work at ICIPE during my 4month bioinformatics interns
 ## Get to know me
 My name is Asatsa Nabwire. I am a bioinformatics enthusiast.I am looking forward to learning about genomics and bioinformatics tools and become competent in genomics and bioinformatics at large.
 
-linkedIn[profile](www.linkedin.com/in/nabwire-asatsa-8478031b4)
+linkedIn [profile](www.linkedin.com/in/nabwire-asatsa-8478031b4)
 
 ---
 ## Description
