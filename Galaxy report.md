@@ -10,7 +10,7 @@ The galaxy community offers training on the use of these servers. The training w
 
 Here I learnt how to manipulate and process NGS data.
 The most important step in any galaxy analysis is quality control.It is important to note that Galaxy is using FASTQ Sanger as the only legitimate input for downstream processing tools and provides a number of utilities for converting FASTQ files into this form. 
-Fastq datasets contain; sequence of the read and base qualities for each nucleotide in the read.The base qualities allow us to judge how trustworthy each base in a sequencing read is.Galaxy uses mainly FastqQC is a tool allowing one to assess the quality of FASTQ datasets. It gives output inform of a multiQC report that contains quality reports. Generally, this steps informs measures such as trimming of low quality reads( those that fall bellow a phred score of 30) and removing adapters usin fastp tool etc. The FASTQC tool needs to be run again after quality control to make sure that the remaining reads are of good quality.
+Fastq datasets contain; sequence of the read and base qualities for each nucleotide in the read.The base qualities allow us to judge how trustworthy each base in a sequencing read is. Galaxy uses mainly FastqQC is a tool allowing one to assess the quality of FASTQ datasets. It gives output inform of a multiQC report that contains quality reports. Generally, this steps informs measures such as trimming of low quality reads( those that fall bellow a phred score of 30) and removing adapters usin fastp tool etc. The FASTQC tool needs to be run again after quality control to make sure that the remaining reads are of good quality.
 
 Here is my shared [history](https://usegalaxy.eu/u/asatsa/h/first-quality-control) for quality control.
 
@@ -31,16 +31,14 @@ Assembly recipe
 3. Simplify the graph
 4. Traverse the graph
 
-*Tutorial*
 
 
-**5. Transcriptomics**
 
-**6. R in Galaxy**
+**5. R in Galaxy**
 
 Galaxy provide for a way to acces R studio from the plattform. This especialy comes handy when performing operations that do better in R such as data visualisation. visualization are an important step to check the data, their quality and represent the results found for publication.In this course I worked on basic R and also performed visualizations on RNASeq data using ggplot2
 
-**7. single- cell RNAseq analysis**
+**6. single- cell RNAseq analysis**
 
 scRNA sequencing provides the means to explore this heterogeneity by examining samples at the individual cell level, enabling a greater understanding of the development and function of such samples, by the characteristics of their constituent cells. The analysis constitues:
 1. Barcode Extraction using **UMI-tools extract** on  input forward and reverse FASTQ files, and extracted the UMI and cell barcode from the forward read sequence, and placed it into the header of both forward and reverse FASTQ files. i.e. FASTQ files → Modified FASTQ files
@@ -51,9 +49,11 @@ scRNA sequencing provides the means to explore this heterogeneity by examining s
 For further details and multi-bacth proceesing click [here](https://training.galaxyproject.org/training-material//topics/transcriptomics/tutorials/scrna-preprocessing/tutorial.html#single-batch-processing)
 
 
-**8. Proteomics**
+**7. Proteomics**
 
-A proteome is the entire complement of proteins that can be expressed by a cell, tissue, or organism at a given time. These proteins are sequenced through mass-spectrometry which is a standard method for proteomic analysis. The method consits of thechniues such as; target proteomics,which measures a predefined set of proteins with accurate quantification; Mass spectrometry Imaging, which measures the location of proteins in thin tissue sections; shortgun/explorative proteomics which aims to identify as many proteins as posible in a sample. This is includes 2types Data depedent aquisions(DDA/DIA)
+A proteome is the entire complement of proteins that can be expressed by a cell, tissue, or organism at a given time. These proteins are sequenced through mass-spectrometry which is a standard method for proteomic analysis. The method consits of thechniues such as; target proteomics,which measures a predefined set of proteins with accurate quantification; Mass spectrometry Imaging, which measures the location of proteins in thin tissue sections; shortgun/explorative proteomics which aims to identify as many proteins as posible in a sample. This is includes 2types Data depedent aquisions(DDA/DIA). You can find my histories [here](https://usegalaxy.eu/u/asatsa/h/imported-proteogenomicsbddesch-for-proteogenomics3) and [here](https://usegalaxy.eu/u/asatsa/h/proteogenomics-db-creation)
+
 
 **Conclusion**
 
+The GTN smorgasbod was a very comprehensive introduction to Galaxy. It was sellf paced and is available for reference any time 
