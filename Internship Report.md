@@ -1,6 +1,6 @@
 ## Introduction
 
-The internship at ICIPE has been an invaluable learning experience so far. These are the [milestones](https://github.com/Asatsa/internship_repo1/blob/main/Roadmap.md) I had set at the begining of the internship. You can find my progress [here](https://github.com/Asatsa/internship_repo1/issues/2)
+The internship at ICIPE has been an invaluable learning experience so far. These are the [milestones](Roadmap.md) I had set at the begining of the internship. You can find my progress [here](https://github.com/Asatsa/internship_repo1/issues/2)
 
 ### Git and github
 
