@@ -39,11 +39,15 @@ This was a node accredetation exercise where ICIPE MBBU was trying to get certif
 I worked on developing a new pipeline, DADA2, with collegues @Simeone hebrew and @Kauthar Omar. This experience was eye opening. I was able to develop skills in R programming and more importantly, problem solving and/or debugging. You can find my scripts and the reports [here](https://github.com/mbbu/16S_Accreditation)
 
 #### HPC computing
-This is was introduced in part with the accredetation because the data was to be analysed on icipe hpc. This included basic navigation between the notes e.t.c.
+This is was introduced in part with the accredetation because the data was to be analysed on icipe hpc. This included basic navigation between the nodes e.t.c.
 
 ### Challenges
 1. Git on the commandline
 2. workflow languages
 
-### conclusion
-My experience so far at ICIPE has been a learning marathon which I appreciate. I am looking forward to doing a mini-project to solidify these programming skills and also teach me how to make proper biological inferences from analyis of bioilogical data
+### Conclusion
+My experience so far at ICIPE has been a learning marathon which I appreciate. I am looking forward to :
+1. A mini-project to solidify these programming skills and also teach me how to make proper biological inferences from analyis of bioilogical data
+2. Getting atleast conversant with nextflow
+3. Go back to  git on the command line
+
