@@ -4,7 +4,7 @@ The internship at ICIPE has been an invaluable learning experience so far. These
 
 
 ### Introduction to bioinformatics
-This covered an array of important parts in bioinformatics. This includes principal rules or practices which are essential for good research practice in bioinformatics.
+This covered an array of important concepts in bioinformatics. This includes principal rules or practices which are essential for good research practice in bioinformatics.
 #### Data Management
 Data management is an important part of bioinformatics to enable the principle of open science where which encourages FAIR bioinformatics. i.e Findable, Accessible, Interoperable and Reusable. Access to data enables collaborations and reproducibility
 ##### Databases
@@ -40,6 +40,12 @@ I worked on developing a new pipeline, DADA2, with collegues @Simeone hebrew and
 
 #### HPC computing
 This is was introduced in part with the accredetation because the data was to be analysed on icipe hpc. This included basic navigation between the nodes e.t.c.
+I have been able to work on Rstudio on the hpc when building the dada2 pipeline. I am yet to get into job scheduling which I think is important for optimal use of resources.
+
+### Other
+*Journal club* - this has built my analytical skills and presentation skills as well. Due to the wide range of topics discussed, this has contributed to expansion of my thinking while allowing me to be conversant with new discoveries and issues in Bioinformatics
+
+*Scientific conferences* - I have attended the WiDS Africa conference, this was a much needed boost in confidence, to see other people already where I want to get to. It was important to me for support and role models
 
 ### Challenges
 1. Git on the commandline
