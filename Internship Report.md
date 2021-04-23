@@ -21,7 +21,7 @@ Git for version control has been helpful in collaborations and just keeping trac
 This was one of the most important lessons, here I learnt about documentation in detail the use of notebooks which is important for enabling reproducibility and sharing. I was also introduced to workflow languages i.e snakemake and nextflow.
 I was also introduced to The Galaxy project:
 ###### Galaxy workshop
-I had an opportunity to attend a galaxy training workshop, GTN Smorgasbod organised by the Galaxy training Network. Here,I got an indepth introduction into galaxy with key highlights being genome annotation and RNAseq analysis. This experience was an eye opener as it introduced me to cloud computing which is where analysis involving big data is done efficiently. To find out more about my experience with galaxy please click [here](Galaxy report.md)
+I had an opportunity to attend a galaxy training workshop, GTN Smorgasbod organised by the Galaxy training Network. Here,I got an indepth introduction into galaxy with key highlights being genome annotation and RNAseq analysis. This experience was an eye opener as it introduced me to cloud computing which is where analysis involving big data is done efficiently. To find out more about my experience with galaxy please click [here](https://github.com/Asatsa/internship_repo1/blob/main/Galaxy%20report.md)
 
 
 ### Programming languages
